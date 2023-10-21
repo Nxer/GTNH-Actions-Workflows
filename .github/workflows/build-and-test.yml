@@ -9,7 +9,7 @@ on:
       timeout:
         description: 'Timeout for runServer (seconds)'
         required: false
-        default: 90
+        default: 900
         type: number
       workspace:
         description: 'setupCIWorkspace/setupDecompWorkspace'
